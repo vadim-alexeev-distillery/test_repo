@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello everybody!");
             Console.WriteLine("Move your body everybody!");
+            Console.WriteLine("Move move!");
         }
     }
 }
